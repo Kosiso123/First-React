@@ -1,6 +1,6 @@
 const todo = [
     {
-        task: "Go to market",
+        task: "Go to school",
     },
     {
         task: "Buy fruit"
